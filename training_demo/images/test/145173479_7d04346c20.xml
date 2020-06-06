@@ -1,0 +1,26 @@
+<annotation>
+  <folder>dandelion</folder>
+  <filename>145173479_7d04346c20</filename>
+  <path>C:\Users\user\Anacondaa3\envs\tensorflow_cpu\TensorFlow\workspace\training_demo\Images\flowers\dandelion\145173479_7d04346c20.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>500</width>
+    <height>329</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Dandelion</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>84</xmin>
+      <ymin>18</ymin>
+      <xmax>441</xmax>
+      <ymax>312</ymax>
+    </bndbox>
+  </object>
+</annotation>

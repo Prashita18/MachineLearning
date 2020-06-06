@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Hibiscus1</folder>
+  <filename>hibiscus-and-the-sea-picture-id668261224</filename>
+  <path>C:\Users\user\Anacondaa3\envs\tensorflow_cpu\TensorFlow\workspace\training_demo\Images\flowers\Hibiscus1\hibiscus-and-the-sea-picture-id668261224.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>612</width>
+    <height>409</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Hibiscus</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>242</xmin>
+      <ymin>140</ymin>
+      <xmax>516</xmax>
+      <ymax>389</ymax>
+    </bndbox>
+  </object>
+</annotation>

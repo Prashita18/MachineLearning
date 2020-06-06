@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Hibiscus1</folder>
+  <filename>closeup-of-red-hibiscus-blooming-against-clear-blue-sky-picture-id752125741</filename>
+  <path>C:\Users\user\Anacondaa3\envs\tensorflow_cpu\TensorFlow\workspace\training_demo\Images\flowers\Hibiscus1\closeup-of-red-hibiscus-blooming-against-clear-blue-sky-picture-id752125741.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>612</width>
+    <height>612</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Hibiscus</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>162</xmin>
+      <ymin>218</ymin>
+      <xmax>477</xmax>
+      <ymax>612</ymax>
+    </bndbox>
+  </object>
+</annotation>

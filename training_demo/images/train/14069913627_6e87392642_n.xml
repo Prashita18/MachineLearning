@@ -1,0 +1,26 @@
+<annotation>
+  <folder>tulip</folder>
+  <filename>14069913627_6e87392642_n</filename>
+  <path>C:\Users\user\Anacondaa3\envs\tensorflow_cpu\TensorFlow\workspace\training_demo\Images\flowers\tulip\14069913627_6e87392642_n.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>240</width>
+    <height>159</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Tulip</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2</xmin>
+      <ymin>1</ymin>
+      <xmax>240</xmax>
+      <ymax>119</ymax>
+    </bndbox>
+  </object>
+</annotation>

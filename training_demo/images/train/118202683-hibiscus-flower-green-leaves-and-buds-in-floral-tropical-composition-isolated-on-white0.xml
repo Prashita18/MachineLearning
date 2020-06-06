@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Hibiscus</folder>
+  <filename>118202683-hibiscus-flower-green-leaves-and-buds-in-floral-tropical-composition-isolated-on-white0</filename>
+  <path>C:\Users\user\Anacondaa3\envs\tensorflow_cpu\TensorFlow\workspace\training_demo\Images\flowers\Hibiscus\118202683-hibiscus-flower-green-leaves-and-buds-in-floral-tropical-composition-isolated-on-white0.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>450</width>
+    <height>344</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Hibiscus</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>112</xmin>
+      <ymin>72</ymin>
+      <xmax>319</xmax>
+      <ymax>296</ymax>
+    </bndbox>
+  </object>
+</annotation>

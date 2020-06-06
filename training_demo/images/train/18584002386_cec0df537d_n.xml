@@ -1,0 +1,26 @@
+<annotation>
+  <folder>rose</folder>
+  <filename>18584002386_cec0df537d_n</filename>
+  <path>C:\Users\user\Anacondaa3\envs\tensorflow_cpu\TensorFlow\workspace\training_demo\Images\flowers\rose\18584002386_cec0df537d_n.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>320</width>
+    <height>240</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Rose</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>140</xmin>
+      <ymin>67</ymin>
+      <xmax>242</xmax>
+      <ymax>177</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Hibiscus</folder>
+  <filename>b484550197ceb4bb92b38166de032777--colored-pencil-tutorial-rock-flowers0</filename>
+  <path>C:\Users\user\Anacondaa3\envs\tensorflow_cpu\TensorFlow\workspace\training_demo\Images\flowers\Hibiscus\b484550197ceb4bb92b38166de032777--colored-pencil-tutorial-rock-flowers0.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>449</width>
+    <height>371</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Hibiscus</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>40</xmin>
+      <ymin>20</ymin>
+      <xmax>403</xmax>
+      <ymax>359</ymax>
+    </bndbox>
+  </object>
+</annotation>

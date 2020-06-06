@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>2454280137_e1637536ae_n</filename>
+  <path>C:\Users\user\Anacondaa3\envs\tensorflow_cpu\TensorFlow\workspace\training_demo\Images\train\2454280137_e1637536ae_n.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>320</width>
+    <height>240</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Daisy</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>93</xmin>
+      <ymin>37</ymin>
+      <xmax>290</xmax>
+      <ymax>201</ymax>
+    </bndbox>
+  </object>
+</annotation>

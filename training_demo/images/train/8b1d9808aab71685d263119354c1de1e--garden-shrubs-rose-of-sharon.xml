@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Hibiscus</folder>
+  <filename>8b1d9808aab71685d263119354c1de1e--garden-shrubs-rose-of-sharon</filename>
+  <path>C:\Users\user\Anacondaa3\envs\tensorflow_cpu\TensorFlow\workspace\training_demo\Images\flowers\Hibiscus\8b1d9808aab71685d263119354c1de1e--garden-shrubs-rose-of-sharon.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>236</width>
+    <height>236</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Hibiscus</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>17</xmin>
+      <ymin>20</ymin>
+      <xmax>227</xmax>
+      <ymax>230</ymax>
+    </bndbox>
+  </object>
+</annotation>

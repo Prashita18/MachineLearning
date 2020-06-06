@@ -1,0 +1,26 @@
+<annotation>
+  <folder>daisy</folder>
+  <filename>10437754174_22ec990b77_m</filename>
+  <path>C:\Users\user\Anacondaa3\envs\tensorflow_cpu\TensorFlow\workspace\training_demo\Images\flowers\daisy\10437754174_22ec990b77_m.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>171</width>
+    <height>240</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Daisy</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>73</xmin>
+      <ymin>103</ymin>
+      <xmax>164</xmax>
+      <ymax>215</ymax>
+    </bndbox>
+  </object>
+</annotation>

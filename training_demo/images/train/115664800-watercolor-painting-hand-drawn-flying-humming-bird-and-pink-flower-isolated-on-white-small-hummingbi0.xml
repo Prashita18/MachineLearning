@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Hibiscus</folder>
+  <filename>115664800-watercolor-painting-hand-drawn-flying-humming-bird-and-pink-flower-isolated-on-white-small-hummingbi0</filename>
+  <path>C:\Users\user\Anacondaa3\envs\tensorflow_cpu\TensorFlow\workspace\training_demo\Images\flowers\Hibiscus\115664800-watercolor-painting-hand-drawn-flying-humming-bird-and-pink-flower-isolated-on-white-small-hummingbi0.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>450</width>
+    <height>385</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Hibiscus</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>185</xmin>
+      <ymin>81</ymin>
+      <xmax>415</xmax>
+      <ymax>281</ymax>
+    </bndbox>
+  </object>
+</annotation>

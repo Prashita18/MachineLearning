@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Hibiscus</folder>
+  <filename>8e595957c92494d8b6b2dfe7cb0e3603--rare-plants-unusual-plants0</filename>
+  <path>C:\Users\user\Anacondaa3\envs\tensorflow_cpu\TensorFlow\workspace\training_demo\Images\flowers\Hibiscus\8e595957c92494d8b6b2dfe7cb0e3603--rare-plants-unusual-plants0.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>474</width>
+    <height>492</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Hibiscus</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>18</xmin>
+      <ymin>23</ymin>
+      <xmax>450</xmax>
+      <ymax>468</ymax>
+    </bndbox>
+  </object>
+</annotation>
